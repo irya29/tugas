@@ -95,8 +95,9 @@ ul{
  /*showcase*/
  #showcase {
 	 min-height: 400px;
-	 background-image: url('../img/bg1.PNG') no-repeat 0;
+	 background-image: url('img/bg1.PNG') no-repeat 0;
 	 height: 400px;
+	 width: 600px;
 	 text-align: center;
 	 color: #ffffff;
  }
